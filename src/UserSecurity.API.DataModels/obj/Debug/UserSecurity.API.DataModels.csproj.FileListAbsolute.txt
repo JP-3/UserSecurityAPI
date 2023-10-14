@@ -1,0 +1,22 @@
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.DataModels\bin\Debug\UserSecurity.API.DataModels.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.DataModels\bin\Debug\UserSecurity.API.DataModels.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.DataModels\obj\Debug\UserSecurity.API.DataModels.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.DataModels\obj\Debug\UserSecurity.API.DataModels.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.DataModels\bin\Debug\UserSecurity.API.DataModels.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.DataModels\bin\Debug\UserSecurity.API.DataModels.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.DataModels\obj\Debug\UserSecurity.API.DataModels.csproj.AssemblyReference.cache
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.DataModels\obj\Debug\UserSecurity.API.DataModels.csproj.CoreCompileInputs.cache
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.DataModels\obj\Debug\UserSecurity.API.DataModels.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.DataModels\obj\Debug\UserSecurity.API.DataModels.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.DataModels\bin\Debug\UserSecurity.API.DataModels.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.DataModels\bin\Debug\UserSecurity.API.DataModels.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.DataModels\obj\Debug\UserSecurity.API.DataModels.csproj.AssemblyReference.cache
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.DataModels\obj\Debug\UserSecurity.API.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.DataModels\obj\Debug\UserSecurity.API.DataModels.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.DataModels\obj\Debug\UserSecurity.API.DataModels.pdb
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.DataModels\bin\Debug\UserSecurity.API.DataModels.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.DataModels\bin\Debug\UserSecurity.API.DataModels.pdb
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.DataModels\obj\Debug\UserSecurity.API.DataModels.csproj.AssemblyReference.cache
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.DataModels\obj\Debug\UserSecurity.API.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.DataModels\obj\Debug\UserSecurity.API.DataModels.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.DataModels\obj\Debug\UserSecurity.API.DataModels.pdb

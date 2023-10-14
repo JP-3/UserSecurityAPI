@@ -1,0 +1,78 @@
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\UserSecurity.API.ServiceModel.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\UserSecurity.API.ServiceModel.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.Filters.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Client.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Common.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Text.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.Filters.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Client.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Common.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Text.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.ServiceModel\obj\Debug\UserSecurity.API.ServiceModel.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.ServiceModel\obj\Debug\UserSecurity.API.ServiceModel.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.ServiceModel\obj\Debug\UserSecurity.API.ServiceModel.csprojResolveAssemblyReference.cache
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\UserSecurity.API.ServiceModel.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\UserSecurity.API.ServiceModel.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.Filters.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Client.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Common.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Text.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.Filters.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Client.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Common.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Text.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\obj\Debug\UserSecurity.API.ServiceModel.csproj.AssemblyReference.cache
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\obj\Debug\UserSecurity.API.ServiceModel.csproj.CoreCompileInputs.cache
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\obj\Debug\UserSecurity.API.ServiceModel.csproj.CopyComplete
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\obj\Debug\UserSecurity.API.ServiceModel.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\obj\Debug\UserSecurity.API.ServiceModel.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\UserSecurity.API.ServiceModel.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\UserSecurity.API.ServiceModel.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.Filters.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Client.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Common.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Text.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.Filters.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Client.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Common.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Text.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\obj\Debug\UserSecurity.API.ServiceModel.csproj.AssemblyReference.cache
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\obj\Debug\UserSecurity.API.ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\obj\Debug\UserSecurity.API.ServiceModel.csproj.CopyComplete
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\obj\Debug\UserSecurity.API.ServiceModel.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.ServiceModel\obj\Debug\UserSecurity.API.ServiceModel.pdb
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\UserSecurity.API.ServiceModel.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\UserSecurity.API.ServiceModel.pdb
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.Filters.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Client.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Common.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Text.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.xml
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.Filters.xml
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.xml
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Client.xml
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Common.xml
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.ServiceModel\bin\Debug\ServiceStack.Text.xml
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.ServiceModel\obj\Debug\UserSecurity.API.ServiceModel.csproj.AssemblyReference.cache
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.ServiceModel\obj\Debug\UserSecurity.API.ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.ServiceModel\obj\Debug\UserSecurity.API.ServiceModel.csproj.CopyComplete
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.ServiceModel\obj\Debug\UserSecurity.API.ServiceModel.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.ServiceModel\obj\Debug\UserSecurity.API.ServiceModel.pdb

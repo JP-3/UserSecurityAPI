@@ -1,0 +1,5 @@
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.DataModels\bin\Release\UserSecurity.API.DataModels.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.DataModels\bin\Release\UserSecurity.API.DataModels.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.DataModels\obj\Release\UserSecurity.API.DataModels.csprojResolveAssemblyReference.cache
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.DataModels\obj\Release\UserSecurity.API.DataModels.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.DataModels\obj\Release\UserSecurity.API.DataModels.pdb

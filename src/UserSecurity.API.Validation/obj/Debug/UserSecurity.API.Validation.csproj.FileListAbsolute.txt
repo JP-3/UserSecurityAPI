@@ -1,0 +1,94 @@
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\UserSecurity.API.Validation.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\UserSecurity.API.Validation.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.Core.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Client.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Common.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Interfaces.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Text.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\UserSecurity.API.ServiceModel.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\UserSecurity.API.ServiceModel.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.Core.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.Core.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Client.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Common.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Text.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\obj\Debug\UserSecurity.API.Validation.csprojResolveAssemblyReference.cache
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\obj\Debug\UserSecurity.API.Validation.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Validation\obj\Debug\UserSecurity.API.Validation.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\UserSecurity.API.Validation.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\UserSecurity.API.Validation.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.Core.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Client.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Common.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Interfaces.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Text.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\UserSecurity.API.ServiceModel.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\UserSecurity.API.ServiceModel.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.Core.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.Core.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Client.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Common.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Text.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\obj\Debug\UserSecurity.API.Validation.csproj.AssemblyReference.cache
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\obj\Debug\UserSecurity.API.Validation.csproj.CoreCompileInputs.cache
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\obj\Debug\UserSecurity.API.Validation.csproj.CopyComplete
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\obj\Debug\UserSecurity.API.Validation.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Validation\obj\Debug\UserSecurity.API.Validation.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\UserSecurity.API.Validation.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\UserSecurity.API.Validation.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.Core.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Client.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Common.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Text.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\UserSecurity.API.ServiceModel.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\UserSecurity.API.ServiceModel.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.Core.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Client.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Common.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Text.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\obj\Debug\UserSecurity.API.Validation.csproj.AssemblyReference.cache
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\obj\Debug\UserSecurity.API.Validation.csproj.CoreCompileInputs.cache
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\obj\Debug\UserSecurity.API.Validation.csproj.CopyComplete
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\obj\Debug\UserSecurity.API.Validation.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Validation\obj\Debug\UserSecurity.API.Validation.pdb
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\UserSecurity.API.Validation.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\UserSecurity.API.Validation.pdb
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.Core.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Client.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Common.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Text.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\UserSecurity.API.ServiceModel.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\UserSecurity.API.ServiceModel.pdb
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.pdb
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.xml
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\FluentAssertions.Core.xml
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.xml
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Client.xml
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Common.xml
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\bin\Debug\ServiceStack.Text.xml
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\obj\Debug\UserSecurity.API.Validation.csproj.AssemblyReference.cache
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\obj\Debug\UserSecurity.API.Validation.csproj.CoreCompileInputs.cache
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\obj\Debug\UserSecurity.API.Validation.csproj.CopyComplete
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\obj\Debug\UserSecurity.API.Validation.dll
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Validation\obj\Debug\UserSecurity.API.Validation.pdb

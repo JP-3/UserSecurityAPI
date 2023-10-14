@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\DevelopmentFailure\TestBin</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>09/23/2016 10:53:01</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>09/23/2016 10:53:01</publishTime>
+    </File>
+    <File Include="bin/CHRobinson.MDM.ServiceStack.Shared.dll">
+      <publishTime>09/14/2016 14:34:10</publishTime>
+    </File>
+    <File Include="bin/CHRobinson.MDM.ServiceStack.Shared.Filters.dll">
+      <publishTime>09/14/2016 15:27:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>12/07/2015 19:04:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>03/10/2016 14:26:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>03/09/2016 12:00:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>03/09/2016 11:57:34</publishTime>
+    </File>
+    <File Include="bin/PartyV5.ServiceModel.dll">
+      <publishTime>08/31/2016 16:15:02</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Api.Swagger.dll">
+      <publishTime>06/13/2016 01:01:40</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Client.dll">
+      <publishTime>06/13/2016 01:01:58</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Common.dll">
+      <publishTime>06/13/2016 01:02:00</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.dll">
+      <publishTime>06/13/2016 01:02:04</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Interfaces.dll">
+      <publishTime>06/13/2016 01:01:34</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Text.dll">
+      <publishTime>06/12/2016 14:56:02</publishTime>
+    </File>
+    <File Include="bin/UserSecurity.API.DataModels.dll">
+      <publishTime>10/21/2016 11:15:39</publishTime>
+    </File>
+    <File Include="bin/UserSecurity.API.dll">
+      <publishTime>11/30/2016 08:44:11</publishTime>
+    </File>
+    <File Include="bin/UserSecurity.API.Interfaces.dll">
+      <publishTime>11/30/2016 08:44:10</publishTime>
+    </File>
+    <File Include="bin/UserSecurity.API.Managers.dll">
+      <publishTime>11/30/2016 08:44:11</publishTime>
+    </File>
+    <File Include="bin/UserSecurity.API.Repositories.dll">
+      <publishTime>11/30/2016 08:44:11</publishTime>
+    </File>
+    <File Include="bin/UserSecurity.API.ServiceDefinition.dll">
+      <publishTime>11/30/2016 08:44:11</publishTime>
+    </File>
+    <File Include="bin/UserSecurity.API.ServiceModel.dll">
+      <publishTime>11/30/2016 08:44:10</publishTime>
+    </File>
+    <File Include="bin/UserSecurity.API.Validation.dll">
+      <publishTime>11/30/2016 08:44:11</publishTime>
+    </File>
+    <File Include="bin/Web.config.token">
+      <publishTime>09/23/2016 10:53:01</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/23/2016 10:53:01</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/23/2016 10:53:01</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.js">
+      <publishTime>09/23/2016 10:53:01</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.min.js">
+      <publishTime>09/23/2016 10:53:01</publishTime>
+    </File>
+    <File Include="Service References/Application Insights/ConnectedService.json">
+      <publishTime>09/23/2016 10:53:01</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/15/2016 13:50:31</publishTime>
+    </File>
+    <File Include="Web.config.token">
+      <publishTime>09/23/2016 10:53:01</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

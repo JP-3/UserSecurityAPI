@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CHRobinson.MDM.ServiceStack.Shared</name>
+    </assembly>
+    <members>
+        <member name="T:CHRobinson.MDM.ServiceStack.Shared.ContainerComponentRegistrator">
+            <summary>
+            Handles registration of components into the Service Stack Funq container
+            </summary>
+        </member>
+        <member name="M:CHRobinson.MDM.ServiceStack.Shared.ContainerComponentRegistrator.RegisterComponents(Funq.Container)">
+            <summary>
+            Registers any components into the container that the Shared assembly needs to work
+            </summary>
+            <param name="container"></param>
+        </member>
+        <member name="P:CHRobinson.MDM.ServiceStack.Shared.Dtos.OperationContext.CorrelationId">
+            <summary>
+            An identifier that is used to tie logging information to a specific chain of requests
+            </summary>
+        </member>
+        <member name="P:CHRobinson.MDM.ServiceStack.Shared.Dtos.OperationContext.ChrApiKey">
+            <summary>
+            A unique key identifying an internal CHR group that has access to the service
+            </summary>
+        </member>
+        <member name="P:CHRobinson.MDM.ServiceStack.Shared.Dtos.OperationContext.Version">
+            <summary>
+            For Services that implement versioning, the current request's version.
+            </summary>
+        </member>
+    </members>
+</doc>

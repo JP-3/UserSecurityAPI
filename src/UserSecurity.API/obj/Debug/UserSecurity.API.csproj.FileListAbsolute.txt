@@ -1,0 +1,164 @@
+C:\DevelopmentFailure\bin\ApplicationInsights.config
+C:\DevelopmentFailure\bin\Web.config.token
+C:\DevelopmentFailure\bin\UserSecurity.API.dll.config
+C:\DevelopmentFailure\bin\UserSecurity.API.dll
+C:\DevelopmentFailure\bin\UserSecurity.API.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\obj\Debug\UserSecurity.API.csprojResolveAssemblyReference.cache
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\ApplicationInsights.config
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\Web.config.token
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.dll.config
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.DependencyCollector.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.Web.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.WindowsServer.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.ApplicationInsights.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Api.Swagger.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Client.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Common.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Interfaces.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Text.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Interfaces.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Managers.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Repositories.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.ServiceDefinition.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.ServiceModel.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Validation.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.DataModels.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\PartyV5.ServiceModel.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\CHRobinson.MDM.ServiceStack.Shared.Filters.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\CHRobinson.MDM.ServiceStack.Shared.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Interfaces.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Managers.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Repositories.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.ServiceDefinition.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.ServiceModel.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Validation.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.DependencyCollector.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.Web.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.WindowsServer.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.ApplicationInsights.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Api.Swagger.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Api.Swagger.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Client.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Common.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Text.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.DataModels.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\CHRobinson.MDM.ServiceStack.Shared.Filters.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\bin\CHRobinson.MDM.ServiceStack.Shared.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\obj\Debug\UserSecurity.API.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API\obj\Debug\UserSecurity.API.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\ApplicationInsights.config
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\Web.config.token
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.dll.config
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.Agent.Intercept.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.DependencyCollector.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.Web.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.WindowsServer.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.ApplicationInsights.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Api.Swagger.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Client.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Common.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Interfaces.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Text.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Interfaces.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Managers.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Repositories.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.ServiceDefinition.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.ServiceModel.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Validation.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.DataModels.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\PartyV5.ServiceModel.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\CHRobinson.MDM.ServiceStack.Shared.Filters.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\CHRobinson.MDM.ServiceStack.Shared.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Interfaces.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Managers.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Repositories.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.ServiceDefinition.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.ServiceModel.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Validation.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.DependencyCollector.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.Web.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.WindowsServer.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.ApplicationInsights.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Api.Swagger.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Api.Swagger.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Client.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Common.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Text.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.DataModels.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\CHRobinson.MDM.ServiceStack.Shared.Filters.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\bin\CHRobinson.MDM.ServiceStack.Shared.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\obj\Debug\UserSecurity.API.csproj.AssemblyReference.cache
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\obj\Debug\UserSecurity.API.csproj.CoreCompileInputs.cache
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\obj\Debug\UserSecurity.API.csproj.CopyComplete
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\obj\Debug\UserSecurity.API.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API\obj\Debug\UserSecurity.API.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\ApplicationInsights.config
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\Web.config.token
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.dll.config
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.Web.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Api.Swagger.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Client.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Common.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Interfaces.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Text.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Interfaces.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Managers.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Repositories.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.ServiceDefinition.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.ServiceModel.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Validation.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.DataModels.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\PartyV5.ServiceModel.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\CHRobinson.MDM.ServiceStack.Shared.Filters.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\CHRobinson.MDM.ServiceStack.Shared.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Interfaces.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Managers.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Repositories.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.ServiceDefinition.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.ServiceModel.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.Validation.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.Web.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\Microsoft.ApplicationInsights.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Api.Swagger.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Api.Swagger.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Client.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Common.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\ServiceStack.Text.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\UserSecurity.API.DataModels.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\CHRobinson.MDM.ServiceStack.Shared.Filters.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\bin\CHRobinson.MDM.ServiceStack.Shared.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\obj\Debug\UserSecurity.API.csproj.AssemblyReference.cache
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\obj\Debug\UserSecurity.API.csproj.CoreCompileInputs.cache
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\obj\Debug\UserSecurity.API.csproj.CopyComplete
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\obj\Debug\UserSecurity.API.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API\obj\Debug\UserSecurity.API.pdb
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API\obj\Debug\UserSecurity.API.csproj.AssemblyReference.cache
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API\obj\Debug\UserSecurity.API.csproj.CoreCompileInputs.cache

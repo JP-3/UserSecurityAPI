@@ -1,0 +1,96 @@
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.Repositories.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.Repositories.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.Filters.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\PartyV5.ServiceModel.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\protobuf-net.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Client.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Common.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Interfaces.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.ProtoBuf.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Text.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.DataModels.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.Interfaces.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.ServiceModel.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.DataModels.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.Interfaces.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.ServiceModel.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.Filters.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\protobuf-net.pdb
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\protobuf-net.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Client.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Common.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.ProtoBuf.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Text.xml
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\obj\Debug\UserSecurity.API.Repositories.csprojResolveAssemblyReference.cache
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\obj\Debug\UserSecurity.API.Repositories.dll
+C:\GitHub\PROUJOH\UserSecurity.API\src\UserSecurity.API.Repositories\obj\Debug\UserSecurity.API.Repositories.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.Repositories.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.Repositories.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.Filters.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\PartyV5.ServiceModel.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\protobuf-net.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Client.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Common.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Interfaces.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.ProtoBuf.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Text.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.DataModels.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.Interfaces.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.ServiceModel.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.DataModels.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.Interfaces.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.ServiceModel.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.Filters.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\protobuf-net.pdb
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\protobuf-net.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Client.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Common.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.ProtoBuf.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Text.xml
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\obj\Debug\UserSecurity.API.Repositories.csproj.AssemblyReference.cache
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\obj\Debug\UserSecurity.API.Repositories.csproj.CoreCompileInputs.cache
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\obj\Debug\UserSecurity.API.Repositories.csproj.CopyComplete
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\obj\Debug\UserSecurity.API.Repositories.dll
+D:\USB30FD (USB) #2\Code\UserSecurity.API\src\UserSecurity.API.Repositories\obj\Debug\UserSecurity.API.Repositories.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.Repositories.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.Repositories.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.Filters.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\PartyV5.ServiceModel.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\protobuf-net.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Client.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Common.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.ProtoBuf.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Text.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.DataModels.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.Interfaces.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.ServiceModel.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.DataModels.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.Interfaces.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\UserSecurity.API.ServiceModel.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\CHRobinson.MDM.ServiceStack.Shared.Filters.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\protobuf-net.pdb
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\protobuf-net.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Client.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Common.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.ProtoBuf.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\bin\Debug\ServiceStack.Text.xml
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\obj\Debug\UserSecurity.API.Repositories.csproj.AssemblyReference.cache
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\obj\Debug\UserSecurity.API.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\obj\Debug\UserSecurity.API.Repositories.csproj.CopyComplete
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\obj\Debug\UserSecurity.API.Repositories.dll
+C:\Users\JP\Documents\Code\UserSecurity.API\src\UserSecurity.API.Repositories\obj\Debug\UserSecurity.API.Repositories.pdb
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Repositories\obj\Debug\UserSecurity.API.Repositories.csproj.AssemblyReference.cache
+C:\Users\JP\Documents\CodeForGravie\UserSecurity.API\src\UserSecurity.API.Repositories\obj\Debug\UserSecurity.API.Repositories.csproj.CoreCompileInputs.cache

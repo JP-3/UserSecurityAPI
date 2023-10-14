@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CHRobinson.MDM.ServiceStack.Shared.Filters</name>
+    </assembly>
+    <members>
+        <member name="T:CHRobinson.MDM.ServiceStack.Shared.Filters.RequiresCallerMetadataAttribute">
+             <summary>
+             Indicates that HTTP headers <code>X-UserID</code> and <code>X-SourceSystem</code>
+             must be provided with the request.
+            
+             If <see cref="P:CHRobinson.MDM.ServiceStack.Shared.Filters.RequiresCallerMetadataAttribute.AuthorizedSourceSystemPattern"/> is set, the <code>X-SourceSystem</code> header
+             must match. If <code>X-SourceSystem</code> does not match <see cref="P:CHRobinson.MDM.ServiceStack.Shared.Filters.RequiresCallerMetadataAttribute.AuthorizedSourceSystemPattern"/>,
+             the request is not authorized.
+            
+             Important: <see cref="P:CHRobinson.MDM.ServiceStack.Shared.Filters.RequiresCallerMetadataAttribute.AuthorizedSourceSystemPattern"/> is case insensitive. A request with
+             <code>X-SourceSystem = "NAVISPHERE"</code> will match with an <see cref="P:CHRobinson.MDM.ServiceStack.Shared.Filters.RequiresCallerMetadataAttribute.AuthorizedSourceSystemPattern"/>
+             of <code>^navisphere.*</code>
+             <seealso cref="T:CHRobinson.MDM.ServiceStack.Shared.Filters.CallerMetadataRequestFilterAttribute"/>
+             </summary>
+        </member>
+        <member name="P:CHRobinson.MDM.ServiceStack.Shared.Filters.RequiresCallerMetadataAttribute.AuthorizedSourceSystemPattern">
+             <summary>
+             This property allows you to authorize certain source systems for a resource.
+            
+             If set, the <code>X-SourceSystem</code> value of the incoming request must match this
+             regular expression pattern.
+            
+             If this is null (the default), all source systems will be authorized.
+             </summary>
+        </member>
+        <member name="T:CHRobinson.MDM.ServiceStack.Shared.Filters.ContainerComponentRegistrator">
+            <summary>
+            Handles registration of components into the Service Stack Funq container
+            </summary>
+        </member>
+        <member name="M:CHRobinson.MDM.ServiceStack.Shared.Filters.ContainerComponentRegistrator.RegisterComponents(Funq.Container)">
+            <summary>
+            Registers any components into the container that the shared assembly needs to work
+            </summary>
+            <param name="container"></param>
+        </member>
+        <member name="T:CHRobinson.MDM.ServiceStack.Shared.Filters.CallerMetadataRequestFilterAttribute">
+             <summary>
+             Indicates that this Service may handle request DTO's that are marked with a RequiresCallerMetatdata Attribute.
+             For each request DTO that has this attribute, a X-UserId and X-SourceSystem HTTP header will be required on the request.
+             </summary>
+             <example>
+             This example illustrates the use of <see cref="T:CHRobinson.MDM.ServiceStack.Shared.Filters.CallerMetadataRequestFilterAttribute"/>
+             and <see cref="T:CHRobinson.MDM.ServiceStack.Shared.Filters.RequiresCallerMetadataAttribute"/>.
+            
+             1. Annotating <code>MyService</code> with <see cref="T:CHRobinson.MDM.ServiceStack.Shared.Filters.CallerMetadataRequestFilterAttribute"/>
+                adds the filter to all methods on the service.
+             2. Annotating <code>ReadRequest</code> with <see cref="T:CHRobinson.MDM.ServiceStack.Shared.Filters.RequiresCallerMetadataAttribute"/>
+                enforces that the request must include <code>X-UserID</code> and <code>X-SourceSystem</code>
+                HTTP headers.
+            
+             <code>
+             [CallerMetadataRequestFilter]
+             public class MyService : Service {
+                 public ReadResponse Get(ReadRequest request) {
+                   return new ReadResponse($"Read {request.Id}");
+                 }
+             }
+            
+            
+             // Allow all navisphere APIs
+            
+             [DataContract]
+             [RequiresCallerMetadata(AuthorizedSourceSystemPattern = "^Navisphere.*")]
+             Route("/MyService/{id}",
+                 Verbs = "GET",
+                 Summary = "Reads Something",
+                 Notes = "Reads Something")]
+             public class ReadRequest {
+                 [DataMember(Order = 1)]
+                 [ApiMember(Name = "id", ParameterType = "path", DataType = "int", IsRequired = true)]
+                 public int Id { get; set; }
+             }
+             </code>
+             </example>
+        </member>
+        <member name="T:CHRobinson.MDM.ServiceStack.Shared.Filters.GlobalRequestFilterFactory">
+            <summary>
+            Returns methods that will process Service Stack requests
+            </summary>
+        </member>
+        <member name="M:CHRobinson.MDM.ServiceStack.Shared.Filters.GlobalRequestFilterFactory.AddCorrelationIdToOperationContext">
+            <summary>
+            Returns a method that will any X-CorrelationId header information to the Operation Context. If no header information is avialable
+            then a GUID will be generated and placed into the Operation Context
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CHRobinson.MDM.ServiceStack.Shared.Filters.GlobalRequestFilterFactory.AddUserNameToOperationContext">
+            <summary>
+            Returns a method that will add any X-UserName / X-UserId caller information to the Operation Context
+            The information can be sent in as an HTTP header or query string parameter
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CHRobinson.MDM.ServiceStack.Shared.Filters.GlobalRequestFilterFactory.PopulateUserIdAndSourceSystemForSwaggerUiRequests">
+            <summary>
+            For requests from the Swagger-UI, sets the X-UserID and X-SourceSystem headers to "Swagger-UI"
+            </summary>
+        </member>
+        <member name="M:CHRobinson.MDM.ServiceStack.Shared.Filters.GlobalRequestFilterFactory.AddSourceSystemToOperationContext">
+            <summary>
+            Returns a method that will add any X-SourceSystem caller information to the Operation Context.  
+            The information can be sent in as an HTTP header or query string parameter
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CHRobinson.MDM.ServiceStack.Shared.Filters.GlobalRequestFilterFactory.AddRequestVersionToOperationContext">
+            <summary>
+            Returns a method that will add the incoming Request's Version to the Operation Context if that request implements IHasVersion
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CHRobinson.MDM.ServiceStack.Shared.Filters.GlobalRequestFilterFactory.AddIRequestToContainer">
+            <summary>
+            Returns a method that will add an IRequest object to the container
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CHRobinson.MDM.ServiceStack.Shared.Filters.GlobalRequestFilterFactory.RequireUserIdAndSourceSystem">
+            <summary>
+            Throws an exception if the X-UserId/X-UserID/X-UserName and X-SourceSystem were not provided in the HTTP headers or query string parameters
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CHRobinson.MDM.ServiceStack.Shared.Filters.GlobalRequestFilterFactory.RequireSourceSystem">
+            <summary>
+            Throws an exception if the X-SourceSystem value was not provided in the HTTP headers or query string parameters
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CHRobinson.MDM.ServiceStack.Shared.Filters.GlobalRequestFilterFactory.IsOperationForServiceMetadata(System.String)">
+            <summary>
+            Requests for service structure metadata should be excluded from filtering requirements as to not 
+            hinder the use of tools like Postman and Swagger
+            </summary>
+            <param name="operationName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CHRobinson.MDM.ServiceStack.Shared.Filters.GlobalRequestFilterFactory.IsRequestFromSwaggerUI(System.Uri)">
+            <summary>
+            Requests from Swagger-UI should be excluded from filtering for the time being until we can
+            get a version of Swagger-UI released that supports sending in custom headers / query string params
+            </summary>
+            <param name="referrerUrl"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CHRobinson.MDM.ServiceStack.Shared.Filters.GlobalResponseFilterFactory">
+            <summary>
+            Returns methods that will process Service Stack responses
+            </summary>
+        </member>
+        <member name="M:CHRobinson.MDM.ServiceStack.Shared.Filters.GlobalResponseFilterFactory.AddCorrelationIdToHttpHeaders">
+            <summary>
+            Returns a method that will add an X-CorrelationId header to every response sent back.  The header will only be added if there is 
+            an OperationContext.CorrelationId available in the container.
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
